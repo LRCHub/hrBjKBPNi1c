@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "聖人君子でありたい",
+  "base_artist": "しゃいと",
+  "createdAt": "2025-12-09T03:09:54.107512Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "聖人君子でありたい (feat. 重音テト)",
+      "artist": "しゃいと",
+      "has_synced": false,
+      "path": "select/pl_01_聖人君子でありたい_(feat._重音テト)_しゃいと.txt"
+    }
+  ]
+}
